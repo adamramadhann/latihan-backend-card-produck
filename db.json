@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "laksono@gmail.com",
+      "name": "agung laksono",
+      "password": "agung123"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "nama": "burger",
+      "price": 2.00,
+      "image": []
+    }
+  ]
+}
